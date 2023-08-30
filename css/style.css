@@ -1,4 +1,15 @@
 .carousel-item img{
     width: 50%;
     margin: auto ;
+} 
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: green;
+}
+
+.accordion{
+    max-width: 850px;
+    margin: auto;
 }
